@@ -12,3 +12,5 @@ python3 -m http.server 1234
 
 Open a web browser and type the address  
 localhost:1234
+
+Control C to exit 
